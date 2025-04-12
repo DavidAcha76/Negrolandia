@@ -736,3 +736,7 @@
 [12Apr2025 04:46:12.880] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [12Apr2025 04:47:17.057] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Kiurt lost connection: Disconnected
 [12Apr2025 04:47:17.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kiurt left the game
+[12Apr2025 04:51:12.613] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Apr2025 04:51:12.618] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[12Apr2025 04:56:12.383] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[12Apr2025 04:56:12.388] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
