@@ -1,0 +1,253 @@
+[12Apr2025 04:30:03.177] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[12Apr2025 04:30:03.181] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[12Apr2025 04:30:03.590] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[12Apr2025 04:30:03.683] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Negrolandia/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[12Apr2025 04:30:03.731] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Negrolandia/servidor_minecraft/config/fml.toml is not correct. Correcting
+[12Apr2025 04:30:03.738] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[12Apr2025 04:30:04.322] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Apr2025 04:30:04.483] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Apr2025 04:30:04.496] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[12Apr2025 04:30:06.114] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[12Apr2025 04:30:14.191] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[12Apr2025 04:30:14.227] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[12Apr2025 04:30:14.587] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Negrolandia/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[12Apr2025 04:30:14.590] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Apr2025 04:30:14.591] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
+[12Apr2025 04:30:14.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Apr2025 04:30:15.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[12Apr2025 04:30:19.078] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Apr2025 04:30:19.972] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Apr2025 04:30:19.976] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Apr2025 04:30:19.980] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Apr2025 04:30:19.983] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Apr2025 04:30:19.989] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Apr2025 04:30:19.994] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar
+[12Apr2025 04:30:21.916] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[12Apr2025 04:30:22.767] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[12Apr2025 04:30:24.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[12Apr2025 04:30:24.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Apr2025 04:30:24.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Apr2025 04:30:24.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Apr2025 04:30:25.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Apr2025 04:30:25.044] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[12Apr2025 04:30:25.195] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Apr2025 04:30:25.196] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Apr2025 04:30:25.197] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Apr2025 04:30:25.198] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Apr2025 04:30:25.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[12Apr2025 04:30:25.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Apr2025 04:30:25.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[12Apr2025 04:30:25.248] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
+[12Apr2025 04:30:25.252] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[12Apr2025 04:30:25.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[12Apr2025 04:30:25.258] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[12Apr2025 04:30:25.259] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
+[12Apr2025 04:30:25.259] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
+[12Apr2025 04:30:25.260] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
+[12Apr2025 04:30:25.260] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[12Apr2025 04:30:25.262] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[12Apr2025 04:30:25.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Apr2025 04:30:32.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Apr2025 04:30:32.499] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Apr2025 04:30:32.638] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Apr2025 04:30:33.140] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Apr2025 04:30:33.916] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Apr2025 04:30:34.143] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Apr2025 04:30:34.640] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Apr2025 04:30:35.355] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[12Apr2025 04:30:35.678] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[12Apr2025 04:30:36.211] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[12Apr2025 04:30:36.689] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[12Apr2025 04:30:37.186] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[12Apr2025 04:30:37.643] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 4%
+[12Apr2025 04:30:38.139] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
+[12Apr2025 04:30:38.685] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
+[12Apr2025 04:30:39.206] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[12Apr2025 04:30:39.639] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[12Apr2025 04:30:40.193] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[12Apr2025 04:30:40.657] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[12Apr2025 04:30:41.175] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[12Apr2025 04:30:41.656] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[12Apr2025 04:30:42.141] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 12%
+[12Apr2025 04:30:42.712] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
+[12Apr2025 04:30:43.141] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 14%
+[12Apr2025 04:30:43.641] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
+[12Apr2025 04:30:44.139] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
+[12Apr2025 04:30:44.676] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 16%
+[12Apr2025 04:30:45.215] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[12Apr2025 04:30:45.656] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 19%
+[12Apr2025 04:30:46.162] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 20%
+[12Apr2025 04:30:46.661] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 22%
+[12Apr2025 04:30:47.139] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 23%
+[12Apr2025 04:30:47.647] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[12Apr2025 04:30:48.184] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[12Apr2025 04:30:48.642] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 26%
+[12Apr2025 04:30:49.206] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 27%
+[12Apr2025 04:30:49.651] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 28%
+[12Apr2025 04:30:50.155] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 30%
+[12Apr2025 04:30:50.644] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 31%
+[12Apr2025 04:30:51.209] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[12Apr2025 04:30:51.715] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 34%
+[12Apr2025 04:30:52.144] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 35%
+[12Apr2025 04:30:52.638] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 37%
+[12Apr2025 04:30:53.204] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[12Apr2025 04:30:53.638] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 41%
+[12Apr2025 04:30:54.241] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 42%
+[12Apr2025 04:30:54.689] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[12Apr2025 04:30:55.144] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[12Apr2025 04:30:55.642] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
+[12Apr2025 04:30:56.206] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
+[12Apr2025 04:30:56.660] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
+[12Apr2025 04:30:57.153] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 51%
+[12Apr2025 04:30:57.681] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 53%
+[12Apr2025 04:30:58.172] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 54%
+[12Apr2025 04:30:58.670] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[12Apr2025 04:30:59.234] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 56%
+[12Apr2025 04:30:59.639] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
+[12Apr2025 04:31:00.139] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 59%
+[12Apr2025 04:31:00.653] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 60%
+[12Apr2025 04:31:01.141] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 61%
+[12Apr2025 04:31:01.639] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 64%
+[12Apr2025 04:31:02.141] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 66%
+[12Apr2025 04:31:02.641] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 67%
+[12Apr2025 04:31:03.151] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 68%
+[12Apr2025 04:31:03.683] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 68%
+[12Apr2025 04:31:04.183] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 70%
+[12Apr2025 04:31:04.642] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 73%
+[12Apr2025 04:31:05.140] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
+[12Apr2025 04:31:05.641] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 75%
+[12Apr2025 04:31:06.181] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 76%
+[12Apr2025 04:31:06.675] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 79%
+[12Apr2025 04:31:07.150] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 82%
+[12Apr2025 04:31:07.642] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[12Apr2025 04:31:08.159] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[12Apr2025 04:31:08.683] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
+[12Apr2025 04:31:09.139] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[12Apr2025 04:31:09.671] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[12Apr2025 04:31:10.156] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[12Apr2025 04:31:10.734] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[12Apr2025 04:31:11.165] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[12Apr2025 04:31:11.640] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[12Apr2025 04:31:12.142] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 40004 ms
+[12Apr2025 04:31:12.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (46.918s)! For help, type "help"
+[12Apr2025 04:31:42.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ea7f6b5
+[12Apr2025 04:31:42.631] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kiurt[/127.165.193.201:58043] logged in with entity id 316 at (-181.5, 77.0, -172.5)
+[12Apr2025 04:31:42.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kiurt joined the game
+[12Apr2025 04:32:23.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Kiurt a server operator
+[12Apr2025 04:32:34.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Kiurt: Set own game mode to Creative Mode]
+[12Apr2025 04:32:50.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kiurt has made the advancement [Acquire Hardware]
+[12Apr2025 04:33:38.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/884, l='ServerLevel[world]', x=-175.40, y=84.42, z=-178.74]
+[12Apr2025 04:33:38.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/885, l='ServerLevel[world]', x=-180.55, y=84.58, z=-178.68]
+[12Apr2025 04:33:38.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/886, l='ServerLevel[world]', x=-179.73, y=84.30, z=-178.55]
+[12Apr2025 04:33:38.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crafting Table'/887, l='ServerLevel[world]', x=-179.33, y=86.66, z=-178.69]
+[12Apr2025 04:33:38.515] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/902, l='ServerLevel[world]', x=-178.61, y=80.56, z=-179.38]
+[12Apr2025 04:33:38.516] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/903, l='ServerLevel[world]', x=-180.50, y=82.32, z=-179.25]
+[12Apr2025 04:33:38.517] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/905, l='ServerLevel[world]', x=-174.74, y=85.40, z=-179.58]
+[12Apr2025 04:35:09.246] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/1370, l='ServerLevel[world]', x=-194.58, y=92.64, z=-132.60]
+[12Apr2025 04:35:09.247] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Apple'/1371, l='ServerLevel[world]', x=-196.43, y=89.55, z=-133.52]
+[12Apr2025 04:35:09.764] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1395, l='ServerLevel[world]', x=-191.32, y=75.25, z=-134.68]
+[12Apr2025 04:35:09.800] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/1411, l='ServerLevel[world]', x=-196.31, y=84.39, z=-135.70]
+[12Apr2025 04:35:09.832] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Birch Log'/1412, l='ServerLevel[world]', x=-183.42, y=74.72, z=-141.32]
+[12Apr2025 04:35:09.833] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Birch Sapling'/1413, l='ServerLevel[world]', x=-180.58, y=76.74, z=-135.44]
+[12Apr2025 04:35:09.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/1414, l='ServerLevel[world]', x=-182.75, y=79.26, z=-140.42]
+[12Apr2025 04:35:10.233] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/1477, l='ServerLevel[world]', x=-204.67, y=77.64, z=-136.71]
+[12Apr2025 04:35:10.233] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/1479, l='ServerLevel[world]', x=-204.49, y=77.59, z=-138.27]
+[12Apr2025 04:35:10.234] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/1482, l='ServerLevel[world]', x=-203.64, y=80.69, z=-134.38]
+[12Apr2025 04:35:10.235] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1483, l='ServerLevel[world]', x=-199.65, y=78.67, z=-138.63]
+[12Apr2025 04:38:07.676] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2009, l='ServerLevel[world]', x=-215.72, y=66.60, z=-86.66]
+[12Apr2025 04:38:07.676] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2010, l='ServerLevel[world]', x=-214.70, y=66.69, z=-87.50]
+[12Apr2025 04:38:07.677] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2014, l='ServerLevel[world]', x=-215.51, y=65.49, z=-84.52]
+[12Apr2025 04:38:07.677] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2016, l='ServerLevel[world]', x=-213.52, y=62.51, z=-82.60]
+[12Apr2025 04:38:07.678] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2018, l='ServerLevel[world]', x=-215.27, y=63.42, z=-83.36]
+[12Apr2025 04:38:07.678] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2019, l='ServerLevel[world]', x=-217.47, y=64.55, z=-82.55]
+[12Apr2025 04:38:07.679] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2020, l='ServerLevel[world]', x=-215.43, y=64.38, z=-81.33]
+[12Apr2025 04:38:07.864] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2053, l='ServerLevel[world]', x=-219.30, y=64.34, z=-78.67]
+[12Apr2025 04:38:07.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2056, l='ServerLevel[world]', x=-217.53, y=64.70, z=-77.66]
+[12Apr2025 04:38:07.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2058, l='ServerLevel[world]', x=-219.32, y=65.54, z=-77.55]
+[12Apr2025 04:38:08.064] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2069, l='ServerLevel[world]', x=-211.47, y=65.34, z=-76.45]
+[12Apr2025 04:38:08.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/2075, l='ServerLevel[world]', x=-205.55, y=67.55, z=-95.71]
+[12Apr2025 04:38:08.179] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2099, l='ServerLevel[world]', x=-210.75, y=64.28, z=-93.45]
+[12Apr2025 04:38:08.181] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2100, l='ServerLevel[world]', x=-207.56, y=62.72, z=-88.39]
+[12Apr2025 04:38:08.183] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2101, l='ServerLevel[world]', x=-205.52, y=62.65, z=-88.68]
+[12Apr2025 04:38:08.184] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2102, l='ServerLevel[world]', x=-210.63, y=61.64, z=-92.52]
+[12Apr2025 04:38:08.185] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2103, l='ServerLevel[world]', x=-212.64, y=66.67, z=-93.46]
+[12Apr2025 04:38:08.186] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2104, l='ServerLevel[world]', x=-211.64, y=62.52, z=-90.35]
+[12Apr2025 04:38:08.188] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2105, l='ServerLevel[world]', x=-208.59, y=65.39, z=-93.50]
+[12Apr2025 04:38:08.189] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2106, l='ServerLevel[world]', x=-208.40, y=62.35, z=-92.59]
+[12Apr2025 04:38:08.190] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2107, l='ServerLevel[world]', x=-209.26, y=65.29, z=-93.63]
+[12Apr2025 04:38:08.192] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2128, l='ServerLevel[world]', x=-216.41, y=63.46, z=-91.32]
+[12Apr2025 04:38:08.193] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2130, l='ServerLevel[world]', x=-220.30, y=65.72, z=-89.59]
+[12Apr2025 04:38:08.194] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2131, l='ServerLevel[world]', x=-216.38, y=63.29, z=-89.62]
+[12Apr2025 04:38:08.195] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2132, l='ServerLevel[world]', x=-215.69, y=66.33, z=-92.44]
+[12Apr2025 04:38:08.197] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2133, l='ServerLevel[world]', x=-218.48, y=66.71, z=-89.74]
+[12Apr2025 04:38:08.198] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2134, l='ServerLevel[world]', x=-215.63, y=64.70, z=-91.52]
+[12Apr2025 04:38:08.199] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2135, l='ServerLevel[world]', x=-218.74, y=63.53, z=-90.38]
+[12Apr2025 04:38:08.470] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2206, l='ServerLevel[world]', x=-216.42, y=65.72, z=-95.27]
+[12Apr2025 04:38:08.471] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2207, l='ServerLevel[world]', x=-213.42, y=63.70, z=-94.71]
+[12Apr2025 04:38:08.472] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2208, l='ServerLevel[world]', x=-214.35, y=65.29, z=-96.28]
+[12Apr2025 04:38:08.473] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2209, l='ServerLevel[world]', x=-211.44, y=65.66, z=-96.63]
+[12Apr2025 04:38:08.474] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2210, l='ServerLevel[world]', x=-215.30, y=64.55, z=-95.53]
+[12Apr2025 04:38:08.531] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/2262, l='ServerLevel[world]', x=-221.30, y=67.43, z=-100.53]
+[12Apr2025 04:38:08.534] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2263, l='ServerLevel[world]', x=-219.71, y=66.50, z=-100.69]
+[12Apr2025 04:38:08.534] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2264, l='ServerLevel[world]', x=-216.47, y=66.35, z=-101.43]
+[12Apr2025 04:38:08.638] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2308, l='ServerLevel[world]', x=-221.51, y=63.37, z=-91.50]
+[12Apr2025 04:38:08.639] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2309, l='ServerLevel[world]', x=-224.53, y=65.26, z=-90.47]
+[12Apr2025 04:38:08.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2310, l='ServerLevel[world]', x=-223.48, y=64.50, z=-91.37]
+[12Apr2025 04:38:08.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2317, l='ServerLevel[world]', x=-224.32, y=65.70, z=-96.58]
+[12Apr2025 04:38:08.799] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2369, l='ServerLevel[world]', x=-221.38, y=62.70, z=-95.49]
+[12Apr2025 04:38:08.801] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2370, l='ServerLevel[world]', x=-223.60, y=63.46, z=-95.51]
+[12Apr2025 04:38:08.801] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2371, l='ServerLevel[world]', x=-221.30, y=63.39, z=-96.54]
+[12Apr2025 04:38:08.876] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2382, l='ServerLevel[world]', x=-217.32, y=63.56, z=-94.61]
+[12Apr2025 04:38:08.877] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2383, l='ServerLevel[world]', x=-216.52, y=62.30, z=-93.29]
+[12Apr2025 04:38:08.878] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2384, l='ServerLevel[world]', x=-218.53, y=61.32, z=-94.50]
+[12Apr2025 04:38:08.879] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2385, l='ServerLevel[world]', x=-216.58, y=62.30, z=-95.69]
+[12Apr2025 04:38:08.880] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2386, l='ServerLevel[world]', x=-218.45, y=63.53, z=-99.48]
+[12Apr2025 04:38:08.924] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2403, l='ServerLevel[world]', x=-212.37, y=64.34, z=-101.52]
+[12Apr2025 04:38:09.001] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2408, l='ServerLevel[world]', x=-211.44, y=59.26, z=-91.59]
+[12Apr2025 04:38:09.001] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2409, l='ServerLevel[world]', x=-211.62, y=61.49, z=-93.51]
+[12Apr2025 04:38:09.002] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2410, l='ServerLevel[world]', x=-211.72, y=59.59, z=-93.30]
+[12Apr2025 04:38:09.002] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2411, l='ServerLevel[world]', x=-216.69, y=61.42, z=-87.26]
+[12Apr2025 04:38:09.003] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2412, l='ServerLevel[world]', x=-216.48, y=62.27, z=-90.40]
+[12Apr2025 04:38:09.003] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2420, l='ServerLevel[world]', x=-214.38, y=61.50, z=-94.35]
+[12Apr2025 04:38:09.003] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2421, l='ServerLevel[world]', x=-213.54, y=62.29, z=-96.25]
+[12Apr2025 04:38:09.004] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2426, l='ServerLevel[world]', x=-219.52, y=64.49, z=-102.51]
+[12Apr2025 04:38:09.004] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2427, l='ServerLevel[world]', x=-214.31, y=63.44, z=-101.30]
+[12Apr2025 04:38:09.005] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2428, l='ServerLevel[world]', x=-215.39, y=64.26, z=-101.33]
+[12Apr2025 04:38:09.005] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2435, l='ServerLevel[world]', x=-214.74, y=62.70, z=-100.54]
+[12Apr2025 04:38:09.006] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2436, l='ServerLevel[world]', x=-217.31, y=63.43, z=-101.69]
+[12Apr2025 04:38:09.006] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2437, l='ServerLevel[world]', x=-211.43, y=65.64, z=-105.68]
+[12Apr2025 04:38:09.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2438, l='ServerLevel[world]', x=-212.34, y=63.32, z=-100.58]
+[12Apr2025 04:38:09.008] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2439, l='ServerLevel[world]', x=-212.66, y=64.38, z=-106.46]
+[12Apr2025 04:38:09.008] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2440, l='ServerLevel[world]', x=-215.38, y=62.40, z=-101.38]
+[12Apr2025 04:38:09.009] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2442, l='ServerLevel[world]', x=-214.60, y=63.66, z=-105.69]
+[12Apr2025 04:38:09.009] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2443, l='ServerLevel[world]', x=-217.58, y=63.61, z=-102.47]
+[12Apr2025 04:38:09.010] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2444, l='ServerLevel[world]', x=-219.37, y=64.68, z=-105.26]
+[12Apr2025 04:38:09.010] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2445, l='ServerLevel[world]', x=-212.34, y=62.40, z=-101.63]
+[12Apr2025 04:38:09.067] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2455, l='ServerLevel[world]', x=-219.48, y=62.64, z=-102.32]
+[12Apr2025 04:38:09.068] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2458, l='ServerLevel[world]', x=-222.58, y=66.29, z=-106.31]
+[12Apr2025 04:38:09.069] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2459, l='ServerLevel[world]', x=-217.61, y=61.56, z=-101.54]
+[12Apr2025 04:38:09.266] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2490, l='ServerLevel[world]', x=-221.52, y=63.29, z=-77.46]
+[12Apr2025 04:38:09.269] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2491, l='ServerLevel[world]', x=-220.61, y=62.74, z=-80.63]
+[12Apr2025 04:38:09.272] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2492, l='ServerLevel[world]', x=-219.73, y=62.53, z=-81.52]
+[12Apr2025 04:38:09.273] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2493, l='ServerLevel[world]', x=-224.69, y=63.36, z=-78.57]
+[12Apr2025 04:38:09.273] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2494, l='ServerLevel[world]', x=-224.34, y=63.71, z=-84.66]
+[12Apr2025 04:38:09.276] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2495, l='ServerLevel[world]', x=-220.44, y=62.27, z=-81.71]
+[12Apr2025 04:38:09.277] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2496, l='ServerLevel[world]', x=-224.64, y=64.48, z=-77.30]
+[12Apr2025 04:38:09.337] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2519, l='ServerLevel[world]', x=-210.68, y=63.70, z=-108.49]
+[12Apr2025 04:38:09.340] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2520, l='ServerLevel[world]', x=-213.72, y=64.53, z=-110.26]
+[12Apr2025 04:38:09.340] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2521, l='ServerLevel[world]', x=-212.49, y=66.70, z=-111.55]
+[12Apr2025 04:38:09.397] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2526, l='ServerLevel[world]', x=-213.64, y=59.58, z=-90.68]
+[12Apr2025 04:38:09.600] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2582, l='ServerLevel[world]', x=-216.49, y=61.61, z=-82.73]
+[12Apr2025 04:38:09.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/2651, l='ServerLevel[world]', x=-228.40, y=70.32, z=-119.35]
+[12Apr2025 04:38:09.852] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2663, l='ServerLevel[world]', x=-195.66, y=66.53, z=-92.71]
+[12Apr2025 04:39:16.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/2948, l='ServerLevel[world]', x=-243.38, y=86.66, z=-172.41]
+[12Apr2025 04:39:16.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/2949, l='ServerLevel[world]', x=-246.44, y=87.62, z=-169.34]
+[12Apr2025 04:39:16.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/2950, l='ServerLevel[world]', x=-244.39, y=87.67, z=-171.68]
+[12Apr2025 04:39:16.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/2952, l='ServerLevel[world]', x=-244.74, y=86.74, z=-171.60]
+[12Apr2025 04:39:16.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/2953, l='ServerLevel[world]', x=-250.36, y=87.25, z=-171.27]
+[12Apr2025 04:39:16.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2954, l='ServerLevel[world]', x=-245.53, y=85.31, z=-174.59]
+[12Apr2025 04:39:16.426] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/2955, l='ServerLevel[world]', x=-247.39, y=90.43, z=-177.67]
+[12Apr2025 04:39:16.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2956, l='ServerLevel[world]', x=-246.45, y=87.58, z=-178.37]
+[12Apr2025 04:39:16.427] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2958, l='ServerLevel[world]', x=-249.42, y=85.63, z=-176.37]
+[12Apr2025 04:39:16.475] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Sapling'/2969, l='ServerLevel[world]', x=-245.53, y=86.53, z=-163.69]
+[12Apr2025 04:39:16.476] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/2970, l='ServerLevel[world]', x=-245.42, y=87.41, z=-162.59]
